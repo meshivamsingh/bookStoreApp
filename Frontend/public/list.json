@@ -1,0 +1,102 @@
+[
+    {
+        "id":1,
+        "name":"Aastha's prem katha",
+        "author":"Philip K. Dick",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    },
+    {
+        "id":2,
+        "name":"Aacharya.",
+        "author":" Douglas Adams",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    },
+    {
+        "id":3,
+        "name":"Something Wicked ",
+        "author":" Ray Bradbury",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    },
+    {
+        "id":4,
+        "name":"A Story of Yesterday",
+        "author":" Sergio Cobo",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found",
+        "price":0,
+        "category":"Free",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    },
+    {
+        "id":5,
+        "name":"To Kill a Mockingbird",
+        "author":"Harper Lee",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found.",
+        "price":7,
+        "category":"Free",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    },
+    {
+        "id":6,
+        "name":"Dream of Electric Sheep",
+        "author":"Philip K. Dick",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found.",
+        "price":800,
+        "category":"paid",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    },
+    {
+        "id":7,
+        "name":" Dream of Electric Sheep",
+        "author":"Philip K. Dick",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    },
+    {
+        "id":8,
+        "name":" Dream of Electric Sheep",
+        "author":"Philip K. Dick",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found.",
+        "price":400,
+        "category":"paid",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    },
+    {
+        "id":9,
+        "name":"Dream of Electric Sheep",
+        "author":"Philip K. Dick",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found.",
+        "price":500,
+        "category":"paid",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    },
+    {
+        "id":10,
+        "name":"Dream of Electric Sheep",
+        "author":"Philip K. Dick",
+        "title":" Deckard's assignment--find them and then retire them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found.",
+        "price":450,
+        "category":"paid",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg"
+         
+    }
+]
